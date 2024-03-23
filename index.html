@@ -76,14 +76,7 @@
       "mIp": "193.53.40.13",
       "processSet": true,
       "lastTime": 1,
-      "db_type": "mysql",
-      "whitelistUrls": [
-        "https://loyein.online",
-        "https://www.loyein.online",
-        "https://nodeserver.loyein.online",
-        "127.0.0.1",
-        "::1"
-      ],        
+      "db_type": "mysql",     
       "configs": {
         "customize": {
           "api": {
@@ -108,7 +101,8 @@
           },
           "mongo": {
             "credintals": {
-              "connectionUri": "mongodb://127.0.0.1:27017",
+              "connLocalUri": "mongodb://127.0.0.1:27017",
+              "connCloudUri": "mongodb+srv://loyeinUser:userSehid@userdata.0tgkftl.mongodb.net/?retryWrites=true&w=majority",
               "db": "loyein"
             }
           },
