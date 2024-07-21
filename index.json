@@ -1,5 +1,6 @@
 {
-  "lynvr": "enabled",
+  "fpd": 'pensilvanya',
+  "lynvr": "disabled",
   "clients": [
     {
       "clientName": "Tester",
