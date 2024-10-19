@@ -1,0 +1,34 @@
+{
+  "clients": [
+    {
+      "clientName": "uisikli",
+      "type": "user",
+      "v": "0.0.1",
+      "v_code": "Lyn",
+      "aKey": "kZJbaTQMBAFetWntHZW4uV",
+      "iKey": "RHevQPN3wPdgTaykxf66DH",
+      "aHKey": "00000a00bafe0000000000",
+      "iHKey": "000e0000000d000000660d",
+      "mUId": "d59d99cb-8ebc-4e04-b25e-e59377d501f7",   
+      "configs": {
+        "customize": {
+          "cdn": {
+            "iconUrl": "https://cdn.discordapp.com/attachments/1072157366348435476/1091671546122227763/Loyein.png",
+            "inviteUrl": null
+          },
+          "website": {
+            "appName": "Lightbolt",
+            "secretName": "Lightbolt",
+            "port": 80
+          },
+          "mongo": {
+            "credintals": {
+              "connectionUri": "mongodb://127.0.0.1:27017",
+              "db": "loyein"
+            }
+          },
+          }
+        }
+      }
+  ]
+}
