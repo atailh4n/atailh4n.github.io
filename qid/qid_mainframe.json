@@ -20,8 +20,8 @@
                         "appName": "Lightbolt",
                         "secretName": "Lightbolt",
                         "port": 80,
-                        "domain": "example.com",
-                        "domainFull": "http://example.com"
+                        "domain": "localhost",
+                        "domainFull": "http://localhost"
                     },
                     "mongo": {
                         "credintals": {
