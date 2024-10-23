@@ -17,15 +17,15 @@
                         "inviteUrl": null
                     },
                     "website": {
-                        "appName": "Lightbolt",
-                        "secretName": "Lightbolt",
+                        "appName": "Marlboro Tobacco",
+                        "secretName": "Marlboro Pro",
                         "port": 80,
                         "domain": "localhost",
                         "domainFull": "http://localhost"
                     },
                     "mongo": {
                         "credintals": {
-                            "dbNameLocal": "loyein_local",
+                            "dbNameLocal": "loyein",
                             "dbNameCloud": "loyein"
                         }
                     }
