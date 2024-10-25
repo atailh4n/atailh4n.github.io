@@ -31,6 +31,38 @@
                     }
                 }
             }
+        },
+        {
+            "clientName": "kedicikmachine",
+            "type": "user",
+            "v": "0.0.1",
+            "v_code": "Lyn",
+            "aKey": "kZJbaTQMBAFetWntHZW4uV",
+            "iKey": "RHevQPN3wPdgTaykxf66DH",
+            "aHKey": "00000a00bafe0000000000",
+            "iHKey": "000e0000000d000000660d",
+            "mUId": "c4c71d9b-349f-4149-8e69-ac3074518bde",
+            "configs": {
+                "customize": {
+                    "cdn": {
+                        "iconUrl": "https://cdn.discordapp.com/attachments/1072157366348435476/1091671546122227763/Loyein.png",
+                        "inviteUrl": null
+                    },
+                    "website": {
+                        "appName": "Kedicik Veriset",
+                        "secretName": "Kedicik Pro",
+                        "port": 80,
+                        "domain": "localhost",
+                        "domainFull": "http://localhost"
+                    },
+                    "mongo": {
+                        "credintals": {
+                            "dbNameLocal": "loyein",
+                            "dbNameCloud": "loyein"
+                        }
+                    }
+                }
+            }
         }
     ]
 }
