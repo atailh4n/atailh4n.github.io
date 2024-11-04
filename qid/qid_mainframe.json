@@ -17,8 +17,8 @@
                         "inviteUrl": null
                     },
                     "website": {
-                        "appName": "Marlboro Tobacco",
-                        "secretName": "Marlboro Pro",
+                        "appName": "Kedicik",
+                        "secretName": "Kedicik Pro",
                         "port": 80,
                         "domain": "localhost",
                         "domainFull": "http://localhost"
